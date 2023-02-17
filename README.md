@@ -147,6 +147,10 @@ free to submit a patch via the GitHub pull requests.
 Oh, and if you want to help improve the actual scripts, then that would be
 great too :^)
 
+## Forked Description
+
+I added two small scripts that will give you cpu make, and gpu manufacturer. I found these utilities useful and wanted to archive the two extra scripts I made for myself, and if anyone else finds it useful.
+
 ## license
 
 These lame little utilities are licensed under the MIT license.
